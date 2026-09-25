@@ -1,1 +1,1 @@
-# student skill and project matching system
+# Student and project matching system
